@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1006317565593",
+    "project_id": "fir-cli-a7a20",
+    "storage_bucket": "fir-cli-a7a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006317565593:android:8e7b181cab74b2856aaa08",
+        "android_client_info": {
+          "package_name": "com.example.instagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn_lJrKTFClRsjfiYjvlYrxCjxbSZbYoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
