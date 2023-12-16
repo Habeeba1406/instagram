@@ -11,7 +11,9 @@ Future<void> dialogBuilder(BuildContext context, String message) {
           ),
           content: Text(
             message,
-            style: const TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            style: const TextStyle(
+              fontSize: 20,
+            ),
           ),
           actions: [
             TextButton(
